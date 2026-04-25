@@ -1,1 +1,1 @@
-http://serv99.xyz:8880|261491762|2516895925
+http://serv99.xyz:8880/get.php?username=261491762&password=2516895925&type=m3u_plus&output=ts
